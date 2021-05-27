@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 7fd072d430e07c249b1d5e5bf3e27490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1783831335432033587
+    second: DetachFoot_SpriteSheet_NoArms_0
+  - first:
+      213: -9132554959632777925
+    second: DetachFoot_SpriteSheet_NoArms_1
+  - first:
+      213: 3636831596609278369
+    second: DetachFoot_SpriteSheet_NoArms_2
+  - first:
+      213: -7292142106821854943
+    second: DetachFoot_SpriteSheet_NoArms_3
+  - first:
+      213: -4133855916249460664
+    second: DetachFoot_SpriteSheet_NoArms_4
+  - first:
+      213: -2948062377964650445
+    second: DetachFoot_SpriteSheet_NoArms_5
+  - first:
+      213: 303116412430582840
+    second: DetachFoot_SpriteSheet_NoArms_6
+  - first:
+      213: 6591005814570779713
+    second: DetachFoot_SpriteSheet_NoArms_7
+  - first:
+      213: -4441719001627079638
+    second: DetachFoot_SpriteSheet_NoArms_8
+  - first:
+      213: -6131310058481797074
+    second: DetachFoot_SpriteSheet_NoArms_9
+  - first:
+      213: 5655168249118354594
+    second: DetachFoot_SpriteSheet_NoArms_10
+  - first:
+      213: -1744285955057006072
+    second: DetachFoot_SpriteSheet_NoArms_11
+  - first:
+      213: 7830620523380111876
+    second: DetachFoot_SpriteSheet_NoArms_12
+  - first:
+      213: 75173559072403070
+    second: DetachFoot_SpriteSheet_NoArms_13
+  - first:
+      213: -8079888424865601039
+    second: DetachFoot_SpriteSheet_NoArms_14
+  - first:
+      213: 361678836509654164
+    second: DetachFoot_SpriteSheet_NoArms_15
+  - first:
+      213: -3199381180060191925
+    second: DetachFoot_SpriteSheet_NoArms_16
+  - first:
+      213: -5983643433396387152
+    second: DetachFoot_SpriteSheet_NoArms_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 702
+        height: 989
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33513aff52171c810800000000000000
+      internalID: 1783831335432033587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1984
+        width: 702
+        height: 979
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3b5b86a5a24180800000000000000
+      internalID: -9132554959632777925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1984
+        width: 702
+        height: 982
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a110df711f987230800000000000000
+      internalID: 3636831596609278369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1984
+        width: 702
+        height: 982
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f637a36b1dca90800000000000000
+      internalID: -7292142106821854943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1984
+        width: 702
+        height: 990
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840dd4f32f791a6c0800000000000000
+      internalID: -4133855916249460664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_5
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1984
+        width: 702
+        height: 990
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33049b103e06617d0800000000000000
+      internalID: -2948062377964650445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 702
+        height: 987
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834048865c2e43400800000000000000
+      internalID: 303116412430582840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 992
+        width: 702
+        height: 981
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14486022ed4f77b50800000000000000
+      internalID: 6591005814570779713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_8
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 992
+        width: 702
+        height: 978
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4aebe918db52c0800000000000000
+      internalID: -4441719001627079638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_9
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 992
+        width: 702
+        height: 972
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b964acf539eaa0800000000000000
+      internalID: -6131310058481797074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_10
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 992
+        width: 702
+        height: 975
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac64c96f813b7e40800000000000000
+      internalID: 5655168249118354594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_11
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 992
+        width: 702
+        height: 975
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acf1e5a2d0bc7e0800000000000000
+      internalID: -1744285955057006072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 702
+        height: 971
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a74faa0e3fbac60800000000000000
+      internalID: 7830620523380111876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 702
+        height: 975
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e230524f11b0100800000000000000
+      internalID: 75173559072403070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 702
+        height: 978
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9681369487edf80800000000000000
+      internalID: -8079888424865601039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_15
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 702
+        height: 975
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c3fec4cf0f40500800000000000000
+      internalID: 361678836509654164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_16
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 702
+        height: 981
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43317d84c38993d0800000000000000
+      internalID: -3199381180060191925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DetachFoot_SpriteSheet_NoArms_17
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 0
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24fc10004d5fca0800000000000000
+      internalID: -5983643433396387152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

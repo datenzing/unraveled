@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 964cd3abd4cf848468abd321721fdc7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3088930037304540467
+    second: idle_pelvisNoArms_0
+  - first:
+      213: -471577902899475447
+    second: idle_pelvisNoArms_1
+  - first:
+      213: 700238511600294731
+    second: idle_pelvisNoArms_2
+  - first:
+      213: -2585255978633927631
+    second: idle_pelvisNoArms_3
+  - first:
+      213: -3157139895328536180
+    second: idle_pelvisNoArms_4
+  - first:
+      213: -8561613616887592997
+    second: idle_pelvisNoArms_5
+  - first:
+      213: 7988494086872973554
+    second: idle_pelvisNoArms_6
+  - first:
+      213: 5607053204624831814
+    second: idle_pelvisNoArms_7
+  - first:
+      213: -3378696678613624302
+    second: idle_pelvisNoArms_8
+  - first:
+      213: 2163437288228626157
+    second: idle_pelvisNoArms_9
+  - first:
+      213: 7774275966307860312
+    second: idle_pelvisNoArms_10
+  - first:
+      213: 2944280854087772919
+    second: idle_pelvisNoArms_11
+  - first:
+      213: -5004909692161206830
+    second: idle_pelvisNoArms_12
+  - first:
+      213: -8989532700097090280
+    second: idle_pelvisNoArms_13
+  - first:
+      213: -419705591514211700
+    second: idle_pelvisNoArms_14
+  - first:
+      213: 2440603457166944293
+    second: idle_pelvisNoArms_15
+  - first:
+      213: -8989253072016306416
+    second: idle_pelvisNoArms_16
+  - first:
+      213: -7404513808155318347
+    second: idle_pelvisNoArms_17
+  - first:
+      213: -647061587546470480
+    second: idle_pelvisNoArms_18
+  - first:
+      213: -3188902724629710063
+    second: idle_pelvisNoArms_19
+  - first:
+      213: 6359345450691202444
+    second: idle_pelvisNoArms_20
+  - first:
+      213: -2566514245352883200
+    second: idle_pelvisNoArms_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3299c0851eda20800000000000000
+      internalID: 3088930037304540467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc0c5556e9479f0800000000000000
+      internalID: -471577902899475447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bdbfd573fb7b900800000000000000
+      internalID: 700238511600294731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e11c72635f1cd0800000000000000
+      internalID: -2585255978633927631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c898ab01ef59f24d0800000000000000
+      internalID: -3157139895328536180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_5
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7844dd6c90f2980800000000000000
+      internalID: -8561613616887592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_6
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04f521c05dcde60800000000000000
+      internalID: 7988494086872973554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_7
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f062ae2140dd40800000000000000
+      internalID: 5607053204624831814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_8
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a517b95457c11d0800000000000000
+      internalID: -3378696678613624302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_9
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee93b250c2160e10800000000000000
+      internalID: 2163437288228626157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_10
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1063
+        width: 702
+        height: 985
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff2ad2dc6c3eb60800000000000000
+      internalID: 7774275966307860312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa2ea56df2cd820800000000000000
+      internalID: 2944280854087772919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d552d1f62dfa8ab0800000000000000
+      internalID: -5004909692161206830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d64f943a3ce3380800000000000000
+      internalID: -8989532700097090280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_14
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8adc8bfcf7ec2af0800000000000000
+      internalID: -419705591514211700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_15
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528a606d9e3ced120800000000000000
+      internalID: 2440603457166944293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_16
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f016645f1cf3380800000000000000
+      internalID: -8989253072016306416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_17
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76d6a1ce1ed3990800000000000000
+      internalID: -7404513808155318347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70e761aec2507f0800000000000000
+      internalID: -647061587546470480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_19
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bbb231eddbeb3d0800000000000000
+      internalID: -3188902724629710063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_20
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d02708efee04850800000000000000
+      internalID: 6359345450691202444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisNoArms_21
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf2ce44e8e16cd0800000000000000
+      internalID: -2566514245352883200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

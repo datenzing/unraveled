@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 0841c8a851edf134399d0469a4e532f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6281376665941273457
+    second: pelvisIdle_New_0
+  - first:
+      213: 7562063329492920762
+    second: pelvisIdle_New_1
+  - first:
+      213: 7671396943486979858
+    second: pelvisIdle_New_2
+  - first:
+      213: -4069746957826475050
+    second: pelvisIdle_New_3
+  - first:
+      213: 4688017216664668612
+    second: pelvisIdle_New_4
+  - first:
+      213: 4361338281904172781
+    second: pelvisIdle_New_5
+  - first:
+      213: 4032549892426122184
+    second: pelvisIdle_New_6
+  - first:
+      213: -3634276522501504050
+    second: pelvisIdle_New_7
+  - first:
+      213: 3714176508776646663
+    second: pelvisIdle_New_8
+  - first:
+      213: -1538642162706592511
+    second: pelvisIdle_New_9
+  - first:
+      213: -2457358268603682332
+    second: pelvisIdle_New_10
+  - first:
+      213: 6512185714892509289
+    second: pelvisIdle_New_11
+  - first:
+      213: 5783160855565828256
+    second: pelvisIdle_New_12
+  - first:
+      213: -3055963031823874724
+    second: pelvisIdle_New_13
+  - first:
+      213: -846092330897491561
+    second: pelvisIdle_New_14
+  - first:
+      213: 2278750991847477441
+    second: pelvisIdle_New_15
+  - first:
+      213: 6085797476916548602
+    second: pelvisIdle_New_16
+  - first:
+      213: -4475425235922516543
+    second: pelvisIdle_New_17
+  - first:
+      213: -4744504469339487000
+    second: pelvisIdle_New_18
+  - first:
+      213: -363694088424927954
+    second: pelvisIdle_New_19
+  - first:
+      213: -1746696196386246752
+    second: pelvisIdle_New_20
+  - first:
+      213: 6536850890923716539
+    second: pelvisIdle_New_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pelvisIdle_New_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f849426d33114d8a0800000000000000
+      internalID: -6281376665941273457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ee6b5888d1f860800000000000000
+      internalID: 7562063329492920762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0f8310e6467a60800000000000000
+      internalID: 7671396943486979858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb60d44ba5587c0800000000000000
+      internalID: -4069746957826475050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9863402de2f0140800000000000000
+      internalID: 4688017216664668612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_5
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee53e5f06968c30800000000000000
+      internalID: 4361338281904172781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_6
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3491503ce76f730800000000000000
+      internalID: 4032549892426122184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_7
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec381cc02c4709dc0800000000000000
+      internalID: -3634276522501504050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_8
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088bbe2bd76b8330800000000000000
+      internalID: 3714176508776646663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_9
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4f67ea15a5aae0800000000000000
+      internalID: -1538642162706592511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_10
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13202aca5b5edd0800000000000000
+      internalID: -2457358268603682332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9609a87976eef5a50800000000000000
+      internalID: 6512185714892509289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a002fa582ae14050800000000000000
+      internalID: 5783160855565828256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55896150d90795d0800000000000000
+      internalID: -3055963031823874724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_14
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7993ca102831244f0800000000000000
+      internalID: -846092330897491561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_15
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c053a824ffbf9f10800000000000000
+      internalID: 2278750991847477441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_16
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35492bf88157450800000000000000
+      internalID: 6085797476916548602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_17
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50502b57814e1c0800000000000000
+      internalID: -4475425235922516543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e444c59252282eb0800000000000000
+      internalID: -4744504469339487000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_19
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc58c4726e3faf0800000000000000
+      internalID: -363694088424927954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_20
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2fd3501d72c7e0800000000000000
+      internalID: -1746696196386246752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisIdle_New_21
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2437604f87ba50800000000000000
+      internalID: 6536850890923716539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

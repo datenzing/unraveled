@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 988bf93e32b864942b7c9414a926ac93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6840685043926445390
+    second: idle_twoArmsNoPelvis_0
+  - first:
+      213: 8949162296429309011
+    second: idle_twoArmsNoPelvis_1
+  - first:
+      213: -3429934810027509389
+    second: idle_twoArmsNoPelvis_2
+  - first:
+      213: -4171236050964027086
+    second: idle_twoArmsNoPelvis_3
+  - first:
+      213: 1882627086066074718
+    second: idle_twoArmsNoPelvis_4
+  - first:
+      213: 169896782212835512
+    second: idle_twoArmsNoPelvis_5
+  - first:
+      213: -1597759612068797523
+    second: idle_twoArmsNoPelvis_6
+  - first:
+      213: 7363458626862379894
+    second: idle_twoArmsNoPelvis_7
+  - first:
+      213: 360451753598270922
+    second: idle_twoArmsNoPelvis_8
+  - first:
+      213: -1026588728128011432
+    second: idle_twoArmsNoPelvis_9
+  - first:
+      213: -5230965014552602074
+    second: idle_twoArmsNoPelvis_10
+  - first:
+      213: 7857083564934686616
+    second: idle_twoArmsNoPelvis_11
+  - first:
+      213: -5373688513640666373
+    second: idle_twoArmsNoPelvis_12
+  - first:
+      213: 8388572365234209915
+    second: idle_twoArmsNoPelvis_13
+  - first:
+      213: -3816042036039017927
+    second: idle_twoArmsNoPelvis_14
+  - first:
+      213: -1990733511053989816
+    second: idle_twoArmsNoPelvis_15
+  - first:
+      213: 1316628531158363786
+    second: idle_twoArmsNoPelvis_16
+  - first:
+      213: 2291597712671451133
+    second: idle_twoArmsNoPelvis_17
+  - first:
+      213: -8891252168809435473
+    second: idle_twoArmsNoPelvis_18
+  - first:
+      213: -6900805829355786938
+    second: idle_twoArmsNoPelvis_19
+  - first:
+      213: 1348907861821048380
+    second: idle_twoArmsNoPelvis_20
+  - first:
+      213: -1915257503959586457
+    second: idle_twoArmsNoPelvis_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d209fcdcefeee50800000000000000
+      internalID: 6840685043926445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cecf3a1bfc13c70800000000000000
+      internalID: 8949162296429309011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379309d767c6660d0800000000000000
+      internalID: -3429934810027509389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396cfb69eacc16c0800000000000000
+      internalID: -4171236050964027086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544f753c5f602a10800000000000000
+      internalID: 1882627086066074718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_5
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8274829389b5200800000000000000
+      internalID: 169896782212835512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_6
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36c2e191e93d9e0800000000000000
+      internalID: -1597759612068797523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_7
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fa6c9b92403660800000000000000
+      internalID: 7363458626862379894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_8
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd34ebc5f4900500800000000000000
+      internalID: 360451753598270922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_9
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538289adf2d0c1f0800000000000000
+      internalID: -1026588728128011432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_10
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a981bb801e767b0800000000000000
+      internalID: -5230965014552602074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ed7aafd7f90d60800000000000000
+      internalID: 7857083564934686616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae9d294c2dc65b0800000000000000
+      internalID: -5373688513640666373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7481722f123a6470800000000000000
+      internalID: 8388572365234209915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_14
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9fe98cf1ba0bc0800000000000000
+      internalID: -3816042036039017927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_15
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84829274b6e7f54e0800000000000000
+      internalID: -1990733511053989816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_16
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea6dc5caa954210800000000000000
+      internalID: 1316628531158363786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_17
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df721ef6af36dcf10800000000000000
+      internalID: 2291597712671451133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae21b5a24deb9480800000000000000
+      internalID: -8891252168809435473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_19
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dad4509a96b30a0800000000000000
+      internalID: -6900805829355786938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_20
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364392bd8848b210800000000000000
+      internalID: 1348907861821048380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_twoArmsNoPelvis_21
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 64
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76966179273ab65e0800000000000000
+      internalID: -1915257503959586457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

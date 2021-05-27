@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hurtbox
+  - Checkpoint
+  - Item
+  - BodyPart
+  - Floor
+  - Water
+  - ItemCheckpoint
+  - Chindrip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - GroundCheck
+  - Items
+  - BodyParts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4242508311
+    locked: 0
+  - name: Platforms
+    uniqueID: 453692965
+    locked: 0
+  - name: Interactables
+    uniqueID: 3772895013
+    locked: 0
+  - name: Foreground_Behind
+    uniqueID: 3890897821
+    locked: 0
+  - name: Player
+    uniqueID: 4022569509
+    locked: 0
+  - name: Foreground_Front
+    uniqueID: 3656254959
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

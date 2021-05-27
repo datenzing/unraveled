@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: ae6a76052d2ec0d4aa47ae7683516829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5833460620785581900
+    second: swimCycle_scorpion_0
+  - first:
+      213: 8667829680082781163
+    second: swimCycle_scorpion_1
+  - first:
+      213: 290186339344974435
+    second: swimCycle_scorpion_2
+  - first:
+      213: -8910211998462246890
+    second: swimCycle_scorpion_3
+  - first:
+      213: 7999508374863176887
+    second: swimCycle_scorpion_4
+  - first:
+      213: -3020602158016120440
+    second: swimCycle_scorpion_5
+  - first:
+      213: 3469925760759370470
+    second: swimCycle_scorpion_6
+  - first:
+      213: 3347952428354258911
+    second: swimCycle_scorpion_7
+  - first:
+      213: 8001147627458710133
+    second: swimCycle_scorpion_8
+  - first:
+      213: 5591405513890100784
+    second: swimCycle_scorpion_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swimCycle_scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f7721178d94f050800000000000000
+      internalID: 5833460620785581900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30cee7b215a4870800000000000000
+      internalID: 8667829680082781163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362045b20f2f60400800000000000000
+      internalID: 290186339344974435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100c3e4561985480800000000000000
+      internalID: -8910211998462246890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1056
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46b75db76f30f60800000000000000
+      internalID: 7999508374863176887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889bba3575aa416d0800000000000000
+      internalID: -3020602158016120440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 64
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e21a0f4817a72030800000000000000
+      internalID: 3469925760759370470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 64
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd746f0def0567e20800000000000000
+      internalID: 3347952428354258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 64
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac2221069c90f60800000000000000
+      internalID: 8001147627458710133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 64
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036749ab0b9a89d40800000000000000
+      internalID: 5591405513890100784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

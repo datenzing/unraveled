@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: d44bb93e06384f342886f2c6d933f136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7079831374475038789
+    second: noArmPelvisRoll_New_0
+  - first:
+      213: -4661323449354982820
+    second: noArmPelvisRoll_New_1
+  - first:
+      213: -4665902410519045692
+    second: noArmPelvisRoll_New_2
+  - first:
+      213: -1085538526016088432
+    second: noArmPelvisRoll_New_3
+  - first:
+      213: 5927282145991483712
+    second: noArmPelvisRoll_New_4
+  - first:
+      213: 4371002904985754581
+    second: noArmPelvisRoll_New_5
+  - first:
+      213: 6555171554686896554
+    second: noArmPelvisRoll_New_6
+  - first:
+      213: 572402871310364108
+    second: noArmPelvisRoll_New_7
+  - first:
+      213: -7317511740819665841
+    second: noArmPelvisRoll_New_8
+  - first:
+      213: -3286779856227476592
+    second: noArmPelvisRoll_New_9
+  - first:
+      213: -1201917838208889159
+    second: noArmPelvisRoll_New_10
+  - first:
+      213: -8128196847607762767
+    second: noArmPelvisRoll_New_11
+  - first:
+      213: 1291097954167879707
+    second: noArmPelvisRoll_New_12
+  - first:
+      213: -1281726833784929566
+    second: noArmPelvisRoll_New_13
+  - first:
+      213: 1129319351865767869
+    second: noArmPelvisRoll_New_14
+  - first:
+      213: 4679074575805054261
+    second: noArmPelvisRoll_New_15
+  - first:
+      213: 7038492622236603943
+    second: noArmPelvisRoll_New_16
+  - first:
+      213: 9060398011906291003
+    second: noArmPelvisRoll_New_17
+  - first:
+      213: -5137041801703278592
+    second: noArmPelvisRoll_New_18
+  - first:
+      213: 5441604914113266759
+    second: noArmPelvisRoll_New_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfefbe10e26fbd90800000000000000
+      internalID: -7079831374475038789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a6ff10507af4fb0800000000000000
+      internalID: -4661323449354982820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c99f588a726f3fb0800000000000000
+      internalID: -4665902410519045692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965fc646746fe0f0800000000000000
+      internalID: -1085538526016088432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041665b25bfe14250800000000000000
+      internalID: 5927282145991483712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db50e7cbfbe8ac30800000000000000
+      internalID: 4371002904985754581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98bd65cc5a8fa50800000000000000
+      internalID: 6555171554686896554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2ed4f06591f700800000000000000
+      internalID: 572402871310364108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_8
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c81b077d9f27a90800000000000000
+      internalID: -7317511740819665841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd6a682230362d0800000000000000
+      internalID: -3286779856227476592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8a5c181ee15fe0800000000000000
+      internalID: -1201917838208889159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b3e93808d23f80800000000000000
+      internalID: -8128196847607762767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f860bfb6eae110800000000000000
+      internalID: 1291097954167879707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_13
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c92d4c34663ee0800000000000000
+      internalID: -1281726833784929566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_14
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fee597f52caf00800000000000000
+      internalID: 1129319351865767869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfb6039896fe040800000000000000
+      internalID: 4679074575805054261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 128
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726de969fbfbda160800000000000000
+      internalID: 7038492622236603943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_17
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 128
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35745fdcfffcbd70800000000000000
+      internalID: 9060398011906291003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_18
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 128
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b425d2bf85b8b0800000000000000
+      internalID: -5137041801703278592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noArmPelvisRoll_New_19
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 128
+        width: 702
+        height: 992
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cdb9a6d6748b40800000000000000
+      internalID: 5441604914113266759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

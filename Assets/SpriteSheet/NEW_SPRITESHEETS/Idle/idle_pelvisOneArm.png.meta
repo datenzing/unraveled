@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 093ac48b37f62f644ba92c42f076a47b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7899238083823520732
+    second: idle_pelvisOneArm_0
+  - first:
+      213: -2142169206023144730
+    second: idle_pelvisOneArm_1
+  - first:
+      213: 1670629471766620744
+    second: idle_pelvisOneArm_2
+  - first:
+      213: 4803937141589655105
+    second: idle_pelvisOneArm_3
+  - first:
+      213: 5447066941826609822
+    second: idle_pelvisOneArm_4
+  - first:
+      213: 7486156073111175690
+    second: idle_pelvisOneArm_5
+  - first:
+      213: -6306016018933762638
+    second: idle_pelvisOneArm_6
+  - first:
+      213: 8262929884158500976
+    second: idle_pelvisOneArm_7
+  - first:
+      213: 1830196809665083632
+    second: idle_pelvisOneArm_8
+  - first:
+      213: -1608243564280709497
+    second: idle_pelvisOneArm_9
+  - first:
+      213: 2418682702726721660
+    second: idle_pelvisOneArm_10
+  - first:
+      213: 5721587543729597220
+    second: idle_pelvisOneArm_11
+  - first:
+      213: -3765635377307860912
+    second: idle_pelvisOneArm_12
+  - first:
+      213: 2379183618467374580
+    second: idle_pelvisOneArm_13
+  - first:
+      213: -8334609540382624812
+    second: idle_pelvisOneArm_14
+  - first:
+      213: -4370004163470618042
+    second: idle_pelvisOneArm_15
+  - first:
+      213: 6529173314341671276
+    second: idle_pelvisOneArm_16
+  - first:
+      213: -7451253336043445389
+    second: idle_pelvisOneArm_17
+  - first:
+      213: 8961366022798892042
+    second: idle_pelvisOneArm_18
+  - first:
+      213: -6755274141678838363
+    second: idle_pelvisOneArm_19
+  - first:
+      213: -5101694644119112519
+    second: idle_pelvisOneArm_20
+  - first:
+      213: 7158556888726833911
+    second: idle_pelvisOneArm_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424367190d4406290800000000000000
+      internalID: -7899238083823520732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab532f47c7542e0800000000000000
+      internalID: -2142169206023144730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa2f737a44f2710800000000000000
+      internalID: 1670629471766620744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb1cfb0630ba240800000000000000
+      internalID: 4803937141589655105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923957168ed79b40800000000000000
+      internalID: 5447066941826609822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_5
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cceef84b24e760800000000000000
+      internalID: 7486156073111175690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_6
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b78b67d78c78a0800000000000000
+      internalID: -6306016018933762638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_7
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702a3563f2dba270800000000000000
+      internalID: 8262929884158500976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_8
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f3253d4a266910800000000000000
+      internalID: 1830196809665083632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_9
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7db6cffe5ea9e0800000000000000
+      internalID: -1608243564280709497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_10
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1064
+        width: 702
+        height: 984
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7078687a13e09120800000000000000
+      internalID: 2418682702726721660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6d478e89276f40800000000000000
+      internalID: 5721587543729597220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050cbe55396cdbbc0800000000000000
+      internalID: -3765635377307860912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f52d2245ee840120800000000000000
+      internalID: 2379183618467374580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_14
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d379eb18c4855c80800000000000000
+      internalID: -8334609540382624812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_15
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421b59dd50aa53c0800000000000000
+      internalID: -4370004163470618042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_16
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619b4e49884c9a50800000000000000
+      internalID: 6529173314341671276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_17
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373afadb194d79890800000000000000
+      internalID: -7451253336043445389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cde2b1bea2d5c70800000000000000
+      internalID: 8961366022798892042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_19
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add9d885f17042a0800000000000000
+      internalID: -6755274141678838363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_20
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b474c840c32339b0800000000000000
+      internalID: -5101694644119112519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_pelvisOneArm_21
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 56
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0df8009d485360800000000000000
+      internalID: 7158556888726833911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

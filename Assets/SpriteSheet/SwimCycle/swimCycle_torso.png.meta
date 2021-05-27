@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 96fb5b0ced78a0d4fa7f0459e9a71b93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1319020640244702020
+    second: swimCycle_torso_0
+  - first:
+      213: -4796592543056522237
+    second: swimCycle_torso_1
+  - first:
+      213: -4875322495708183616
+    second: swimCycle_torso_2
+  - first:
+      213: -3908527750984436049
+    second: swimCycle_torso_3
+  - first:
+      213: 3031222090680647083
+    second: swimCycle_torso_4
+  - first:
+      213: -195691951967689327
+    second: swimCycle_torso_5
+  - first:
+      213: 385751699563929049
+    second: swimCycle_torso_6
+  - first:
+      213: 989529399747585142
+    second: swimCycle_torso_7
+  - first:
+      213: 6465557390704243793
+    second: swimCycle_torso_8
+  - first:
+      213: -2360547409678981570
+    second: swimCycle_torso_9
+  - first:
+      213: -6135910385410413902
+    second: swimCycle_torso_10
+  - first:
+      213: -4204997024208442892
+    second: swimCycle_torso_11
+  - first:
+      213: -721175826337726965
+    second: swimCycle_torso_12
+  - first:
+      213: 2490943603781177147
+    second: swimCycle_torso_13
+  - first:
+      213: 2220016689606093913
+    second: swimCycle_torso_14
+  - first:
+      213: -2694616711234821658
+    second: swimCycle_torso_15
+  - first:
+      213: 3080357705422103269
+    second: swimCycle_torso_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swimCycle_torso_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b9139a84a1e4210800000000000000
+      internalID: 1319020640244702020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30414dade741f6db0800000000000000
+      internalID: -4796592543056522237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c7dd4500675cb0800000000000000
+      internalID: -4875322495708183616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f0dff7be12c9c0800000000000000
+      internalID: -3908527750984436049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3104
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad365e6e60111a20800000000000000
+      internalID: 3031222090680647083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195209dd433c84df0800000000000000
+      internalID: -195691951967689327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd20080277a5500800000000000000
+      internalID: 385751699563929049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674a2ce0fb38bbd00800000000000000
+      internalID: 989529399747585142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_8
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154f3dbd0364ab950800000000000000
+      internalID: 6465557390704243793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2112
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ad9a33a6ad3fd0800000000000000
+      internalID: -2360547409678981570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6bff830ed8daa0800000000000000
+      internalID: -6135910385410413902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92b7a4c79d4a5c0800000000000000
+      internalID: -4204997024208442892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e7a8a286eddf5f0800000000000000
+      internalID: -721175826337726965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_13
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f88e2920c919220800000000000000
+      internalID: 2490943603781177147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_14
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1120
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce863ca651fce10800000000000000
+      internalID: 2220016689606093913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16409b06cca9ad0800000000000000
+      internalID: -2694616711234821658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_torso_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 128
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e262dc3301afba20800000000000000
+      internalID: 3080357705422103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

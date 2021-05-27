@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 362d008ad06d5f046aa95badc6e70be9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1306562692655187642
+    second: swimCycle_pelvis_0
+  - first:
+      213: 1254354145717053815
+    second: swimCycle_pelvis_1
+  - first:
+      213: 6408380356599975399
+    second: swimCycle_pelvis_2
+  - first:
+      213: -9171250694352732345
+    second: swimCycle_pelvis_3
+  - first:
+      213: -1524269071318131988
+    second: swimCycle_pelvis_4
+  - first:
+      213: 2137880535094811536
+    second: swimCycle_pelvis_5
+  - first:
+      213: -6400727152544252301
+    second: swimCycle_pelvis_6
+  - first:
+      213: -8399108315200456087
+    second: swimCycle_pelvis_7
+  - first:
+      213: 1829013360723953315
+    second: swimCycle_pelvis_8
+  - first:
+      213: 8900676889030650457
+    second: swimCycle_pelvis_9
+  - first:
+      213: -1725162018743706989
+    second: swimCycle_pelvis_10
+  - first:
+      213: -3336565171097841398
+    second: swimCycle_pelvis_11
+  - first:
+      213: -7643729507736573546
+    second: swimCycle_pelvis_12
+  - first:
+      213: 4094410536574044220
+    second: swimCycle_pelvis_13
+  - first:
+      213: -242544153071925652
+    second: swimCycle_pelvis_14
+  - first:
+      213: -3736750353441515380
+    second: swimCycle_pelvis_15
+  - first:
+      213: 6790440562061576877
+    second: swimCycle_pelvis_16
+  - first:
+      213: -2398008084332082153
+    second: swimCycle_pelvis_17
+  - first:
+      213: 8716545369772844693
+    second: swimCycle_pelvis_18
+  - first:
+      213: -1725280890886176276
+    second: swimCycle_pelvis_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swimCycle_pelvis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3153
+        width: 702
+        height: 943
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649728b47282edde0800000000000000
+      internalID: -1306562692655187642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3155
+        width: 702
+        height: 941
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e00e137c586110800000000000000
+      internalID: 1254354145717053815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3155
+        width: 702
+        height: 941
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8bb43bf32fe850800000000000000
+      internalID: 6408380356599975399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 3152
+        width: 702
+        height: 944
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffc09b51c29b080800000000000000
+      internalID: -9171250694352732345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3130
+        width: 702
+        height: 966
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead7f50b55b8dae0800000000000000
+      internalID: -1524269071318131988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2017
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5c8a05074bad10800000000000000
+      internalID: 2137880535094811536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2015
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef668319c0c27a0800000000000000
+      internalID: -6400727152544252301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2030
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a727adc7f507b80800000000000000
+      internalID: -8399108315200456087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_8
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2041
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6056706f5f16910800000000000000
+      internalID: 1829013360723953315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2049
+        width: 702
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6337097e858b70800000000000000
+      internalID: 8900676889030650457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 702
+        height: 878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a19c4c84efe08e0800000000000000
+      internalID: -1725162018743706989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1051
+        width: 702
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d5ce97a322b1d0800000000000000
+      internalID: -3336565171097841398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_12
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1054
+        width: 702
+        height: 914
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a03cc2840ce590800000000000000
+      internalID: -7643729507736573546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_13
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1056
+        width: 702
+        height: 901
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cc1d90b442d830800000000000000
+      internalID: 4094410536574044220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_14
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1061
+        width: 702
+        height: 923
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ccc9b06f42acf0800000000000000
+      internalID: -242544153071925652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 702
+        height: 901
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889dc80a55642cc0800000000000000
+      internalID: -3736750353441515380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimCycle_pelvis_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 57
+        width: 702
+        height: 922
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8512c6bd7c3e50800000000000000
+      internalID: 6790440562061576877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

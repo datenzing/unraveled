@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: f674c1199396b4b48bfe717f8d23616f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 419426157387836718
+    second: detachPelvis_New_0
+  - first:
+      213: 7810679655964952577
+    second: detachPelvis_New_1
+  - first:
+      213: 1672221615719324494
+    second: detachPelvis_New_2
+  - first:
+      213: 4967346119799347479
+    second: detachPelvis_New_3
+  - first:
+      213: 4799553505631243461
+    second: detachPelvis_New_4
+  - first:
+      213: 3104091345847687852
+    second: detachPelvis_New_5
+  - first:
+      213: -4794911068124082475
+    second: detachPelvis_New_6
+  - first:
+      213: 5097447472192226303
+    second: detachPelvis_New_7
+  - first:
+      213: -8940114353788698189
+    second: detachPelvis_New_8
+  - first:
+      213: 8213281180814991489
+    second: detachPelvis_New_9
+  - first:
+      213: -896085736232973511
+    second: detachPelvis_New_10
+  - first:
+      213: -1872794662014030056
+    second: detachPelvis_New_11
+  - first:
+      213: 9154953733020138005
+    second: detachPelvis_New_12
+  - first:
+      213: -5747026084723470123
+    second: detachPelvis_New_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: detachPelvis_New_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 702
+        height: 956
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2deb903ed912d500800000000000000
+      internalID: 419426157387836718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3104
+        width: 702
+        height: 944
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108492ca3cb156c60800000000000000
+      internalID: 7810679655964952577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3104
+        width: 702
+        height: 950
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b1eae13bce43710800000000000000
+      internalID: 1672221615719324494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_3
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 3104
+        width: 702
+        height: 944
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191e035afe8fe440800000000000000
+      internalID: 4967346119799347479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_4
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3104
+        width: 702
+        height: 919
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc81a7fb707b9240800000000000000
+      internalID: 4799553505631243461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 702
+        height: 933
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9d9302a2f31b20800000000000000
+      internalID: 3104091345847687852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2112
+        width: 702
+        height: 958
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de00eeb9cd057db0800000000000000
+      internalID: -4794911068124082475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_7
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2112
+        width: 702
+        height: 933
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30b31f775cdb640800000000000000
+      internalID: 5097447472192226303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_8
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2112
+        width: 702
+        height: 952
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1cd0bac555ee380800000000000000
+      internalID: -8940114353788698189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2112
+        width: 702
+        height: 945
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e0e6d7bf6bf170800000000000000
+      internalID: 8213281180814991489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 702
+        height: 953
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0a8345c67093f0800000000000000
+      internalID: -896085736232973511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1120
+        width: 702
+        height: 947
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe7696d2f7206e0800000000000000
+      internalID: -1872794662014030056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1120
+        width: 702
+        height: 947
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a3dc74aedec0f70800000000000000
+      internalID: 9154953733020138005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detachPelvis_New_13
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1120
+        width: 702
+        height: 966
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0572999367e30b0800000000000000
+      internalID: -5747026084723470123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

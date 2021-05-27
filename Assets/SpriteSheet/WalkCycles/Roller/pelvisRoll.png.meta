@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 5503fcd3f1d7ed743a3ffa73c3733a42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7157464015579290067
+    second: pelvisRoll_0
+  - first:
+      213: -2795708009983070607
+    second: pelvisRoll_1
+  - first:
+      213: 1363934816900529223
+    second: pelvisRoll_2
+  - first:
+      213: -7290855986616986301
+    second: pelvisRoll_3
+  - first:
+      213: 4950065869498777187
+    second: pelvisRoll_4
+  - first:
+      213: 5096305842481495067
+    second: pelvisRoll_5
+  - first:
+      213: 1235237718439670475
+    second: pelvisRoll_6
+  - first:
+      213: 247822794782432880
+    second: pelvisRoll_7
+  - first:
+      213: 5958457224583131772
+    second: pelvisRoll_8
+  - first:
+      213: -5164187997261434986
+    second: pelvisRoll_9
+  - first:
+      213: -8450782598117092964
+    second: pelvisRoll_10
+  - first:
+      213: -8948199420583910793
+    second: pelvisRoll_11
+  - first:
+      213: -2402408599630539106
+    second: pelvisRoll_12
+  - first:
+      213: -1141231783597353273
+    second: pelvisRoll_13
+  - first:
+      213: -3419951048788734485
+    second: pelvisRoll_14
+  - first:
+      213: 8235658856474152058
+    second: pelvisRoll_15
+  - first:
+      213: -5122015867215768421
+    second: pelvisRoll_16
+  - first:
+      213: -1037913729960554688
+    second: pelvisRoll_17
+  - first:
+      213: 8200327322229044917
+    second: pelvisRoll_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pelvisRoll_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3367
+        width: 620
+        height: 628
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2661c256649bac90800000000000000
+      internalID: -7157464015579290067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3367
+        width: 634
+        height: 622
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eae319066a339d0800000000000000
+      internalID: -2795708009983070607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_2
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3365
+        width: 650
+        height: 622
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb4225d7bade210800000000000000
+      internalID: 1363934816900529223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_3
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3365
+        width: 654
+        height: 626
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451a29db1da1da90800000000000000
+      internalID: -7290855986616986301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_4
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 3365
+        width: 666
+        height: 618
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e72468eaa22b440800000000000000
+      internalID: 4950065869498777187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2633
+        width: 678
+        height: 614
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7bdf8927b9b640800000000000000
+      internalID: 5096305842481495067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2633
+        width: 686
+        height: 608
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b2cc0922742110800000000000000
+      internalID: 1235237718439670475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_7
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2633
+        width: 693
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5042d481707300800000000000000
+      internalID: 247822794782432880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_8
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2633
+        width: 698
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7233a8c641b0b250800000000000000
+      internalID: 5958457224583131772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_9
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 2635
+        width: 698
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f65e5a06e1558b0800000000000000
+      internalID: -5164187997261434986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1901
+        width: 688
+        height: 590
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919d2d400ac8ba80800000000000000
+      internalID: -8450782598117092964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1899
+        width: 678
+        height: 598
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726dbc590c91d380800000000000000
+      internalID: -8948199420583910793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1899
+        width: 668
+        height: 598
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969dad6b1ee8aed0800000000000000
+      internalID: -2402408599630539106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_13
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1899
+        width: 662
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c65b444db78920f0800000000000000
+      internalID: -1141231783597353273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_14
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1901
+        width: 654
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed09bb04a4e980d0800000000000000
+      internalID: -3419951048788734485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1167
+        width: 642
+        height: 608
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c01777810fa4270800000000000000
+      internalID: 8235658856474152058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1171
+        width: 632
+        height: 608
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9490b4d4b1fae8b0800000000000000
+      internalID: -5122015867215768421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1167
+        width: 620
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f433236f69891f0800000000000000
+      internalID: -1037913729960554688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelvisRoll_18
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1169
+        width: 610
+        height: 622
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6746b904a6dc170800000000000000
+      internalID: 8200327322229044917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dab6835cf4a33e7438a0bfaec6a25dcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
